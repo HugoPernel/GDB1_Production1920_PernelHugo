@@ -10,7 +10,7 @@ var config = {
             debug: false
           }
     },
-    scene: [Scene1,Scene6, Scene7, Scene2, Scene3, Scene4, Scene5, Scene8, Scene9]
+    scene: [Scene1,Scene6, Scene7, Scene2, Scene3, Scene4, Scene5]
   }
 
 
